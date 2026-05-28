@@ -13,5 +13,5 @@ public class Coffee {
     private Integer code;
     private String name;
     private String description;
-
+    private Double price;
 }
